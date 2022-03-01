@@ -1,0 +1,617 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bochim. Sighs poured out by some troubled hearts, and tendred towards continuing the precious savour of the good name of the late worthy man of God, John Vernon, who having faithfully served his generation, and finished his testimony, by the will of God, fell asleep the twenty ninth day of the third month, 1667.</title>
+            <author>J. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01887</idno>
+            <idno type="STC">Wing B94A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.3[153]</idno>
+            <idno type="EEBO-CITATION">99885227</idno>
+            <idno type="PROQUEST">ocm99885227</idno>
+            <idno type="VID">182637</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01887)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182637)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:1[153])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bochim. Sighs poured out by some troubled hearts, and tendred towards continuing the precious savour of the good name of the late worthy man of God, John Vernon, who having faithfully served his generation, and finished his testimony, by the will of God, fell asleep the twenty ninth day of the third month, 1667.</title>
+                  <author>J. B.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1667]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A collection of elegies, anagrams, etc. on John Vernon, each signed with a different set of initials.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vernon, John, d. 1667 --  Poetry --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:182637:1" rendition="simple:additions"/>
+            <head>BOCHIM.</head>
+            <head type="sub">Sighs poured out by ſome troubled Hearts, and tendred towards continuing the precious ſavour of the good Name of the late worthy Man of God, <hi>JOHN VERNON,</hi> who having faithfully ſerved his Generation, and finiſhed his Teſtimony, by the Will of God, fell aſleep the <hi>twenty ninth</hi> day of the <hi>third</hi> Month, 1667.</head>
+            <div type="acrostic_poem">
+               <head>An ACROSTICK.</head>
+               <lg>
+                  <l>
+                     <hi>I</hi>EHOVAH, Lord, Oh what's the cauſe that thou</l>
+                  <l>
+                     <hi>O</hi>n <hi>Sions</hi> back ſuch furrows deep do'ſt plow?</l>
+                  <l>
+                     <hi>H</hi>ere haſt thou ſmote her ſore, this wound is deep,</l>
+                  <l>
+                     <hi>N</hi>ow in diſpoſing thy dear <hi>JOHN</hi> to ſleep.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>
+                        <hi>V</hi>ERNON</hi> that Son of Oyl, renowned Plant;</l>
+                  <l>
+                     <hi>
+                        <hi>E</hi>liah</hi>'s Spirit had; that royal Saint.</l>
+                  <l>
+                     <hi>R</hi>ight for thee kept by grace throughout his day,</l>
+                  <l>
+                     <hi>N</hi>ow in his flowred ſtrength haſt call'd away.</l>
+                  <l>
+                     <hi>O</hi>n Willow Trees Saints Harps do hang this day.</l>
+                  <l>
+                     <hi>N</hi>ow nought but tears; ſweet Lord then haſt away.</l>
+               </lg>
+               <byline>Per <hi>J. T.</hi>
+               </byline>
+            </div>
+            <div type="elegy">
+               <head>AN ELEGY.</head>
+               <lg>
+                  <l>IS <hi>VERNON</hi> alſo gone? what, after <hi>Glaſs?</hi>
+                  </l>
+                  <l>Call for the mourning women, ſay alas,</l>
+                  <l>Who ever can this loſs and breach repair,</l>
+                  <l>For Souls and Bodies who like him ſhall care?</l>
+                  <l>To both (as <hi>L<g ref="char:V">Ʋ</g>KE</hi>) he was belov'd <hi>Phyſitian,</hi>
+                  </l>
+                  <l>And made for ſin his cloſeſt <hi>Inquiſition.</hi>
+                  </l>
+                  <l>He cloth'd the naked, and the poor he fed;</l>
+                  <l>This man of bowels death hath captive led.</l>
+                  <l>In Worſhip he abhor'd humane invention,</l>
+                  <l>And ſo was thought a man of great contention<g ref="char:punc">▪</g>
+                  </l>
+                  <l>(In Church and State) againſt Apoſtates all,</l>
+                  <l>(Both Beaſt and Whore) he had a holy Gall.</l>
+                  <l>For which he was depriv'd, vext, and oppreſt;</l>
+                  <l>But now is ſlipt aſide, hid and at reſt.</l>
+                  <l>And though, <hi>Eliah</hi> like, he had ſome paſſion,</l>
+                  <l>He did excel in bowels of compaſſion.</l>
+                  <l>For he to build an houſe his ſtock did ſpend,</l>
+                  <l>(Not for himſelf) but <hi>Sion</hi> to befriend.</l>
+                  <l>Breach upon breach; Ah what is Gods intent?</l>
+                  <l>To ſmite our Shepherds thus! What ſin is meant?</l>
+                  <l>What duty, or what leſſon is expected?</l>
+                  <l>Let (by a double ſpirit) be effected;</l>
+                  <l>His empty place and Family ſupply,</l>
+                  <l>His Friends ſupport, and fit us all to die.</l>
+               </lg>
+               <byline>Per <hi>J. M.</hi>
+               </byline>
+            </div>
+            <div type="soliloquial_poem">
+               <head>A SOLILOQUIE.</head>
+               <epigraph>
+                  <bibl>Pſalm. 77.6.</bibl>
+                  <q>I call to remembrance my Song in the Night. I commune with my own Heart, and my Spirit made diligent ſearch.</q>
+               </epigraph>
+               <lg>
+                  <l>WHat ails thee, my poor grieved mind,</l>
+                  <l>That thou lieſt lingering thus behind?</l>
+                  <l>As liſtleſs to attend the Hearſe</l>
+                  <l>Of thy choice Friend with mournful verſe?</l>
+                  <l>Others dexterity ſhould be</l>
+                  <l>An argument to quicken thee.</l>
+                  <l>Nay importunities ſhould move,</l>
+                  <l>Beſides thine own conſtraints of love:</l>
+                  <l>Shake off dull melancholy then,</l>
+                  <l>Handle the readie VVriters Pen.</l>
+               </lg>
+               <lg>
+                  <l>Alas, nor heart, nor hand is ſtrong,</l>
+                  <l>To utter a becoming Song;</l>
+                  <l>'Tis irk ſome work, (my friends may think)</l>
+                  <l>While gall and vinegar I drink;</l>
+                  <l>While evidently all may ſee</l>
+                  <l>God writes thoſe bitter things to me;</l>
+                  <l>Puts me to ſilence with diſgrace,</l>
+                  <l>Shuts out my cry, ſpits in my face.</l>
+                  <l>It ſeems improper, ſuch a time,</l>
+                  <l>To ſpeak heart-breaking thoughts in Rhime.</l>
+               </lg>
+               <lg>
+                  <l>'Tis true, if any ſhould adviſe,</l>
+                  <l>Thy putting forth in wonted guiſe;</l>
+                  <l>To deck the Tombs, or ſpread the praiſe,</l>
+                  <l>Of men debauched all their dayes.</l>
+                  <l>In Righteouſneſs thou ſhould'ſt decline,</l>
+                  <l>The offering any help of thine.</l>
+                  <l>But here is nothing elſe deſign'd,</l>
+                  <l>Then bring to light, and keep in mind,</l>
+                  <l>The Grace that did a Worm engage,</l>
+                  <l>To be Gods Witneſs in his Age.</l>
+               </lg>
+               <lg>
+                  <l>In a great ſtrait indeed am I,</l>
+                  <l>'Tis hard to grant, hard to deny;</l>
+                  <l>My willing mind would ſhew regard,</l>
+                  <l>My ſinful heart and hand retard.</l>
+                  <l>I would attempt, but then I fear,</l>
+                  <l>I Grace ſhall rather cloud then clear:</l>
+                  <l>However I can do no leſs,</l>
+                  <l>Then ſhew what thoughts my mind impreſs;</l>
+                  <l>Set forth his worth to Friends and Foes,</l>
+                  <l>Exhort this Age, and therewith cloſe.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>JOHN VERNON, Anag.<lb/> In Nue Honor.</head>
+               <epigraph>
+                  <q>
+                     <l>For Chriſt was hunted, griev'd, diſgrac'd;</l>
+                     <l>With Chriſt is <hi>In New Honor</hi> plac'd.</l>
+                  </q>
+               </epigraph>
+               <lg>
+                  <head>I.</head>
+                  <l>
+                     <note place="margin">2 <hi>Chron.</hi> 35.25 <hi>Am.</hi> 5.16.8, 9. <hi>Jer.</hi> 9.17, 18, 20, 21. <hi>Lam.</hi> 2.18. ch. 5.14, <hi>to</hi> 18</note>COme <hi>Sions</hi> Mourners, men of holy skill,</l>
+                  <l>For lamentation in the Aſhes lie;</l>
+                  <l>Come skilful mourning Women, weep your fill,</l>
+                  <l>Take up a wailing, help to raiſe the cry.</l>
+                  <l>Till from our eyes, like Rivers, tears run down,</l>
+                  <l>Though <hi>in nue honour,</hi> we have loſt our Crown.</l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>
+                     <note place="margin">
+                        <hi>Mat.</hi> 24.12. 2 <hi>Tim.</hi> 3.12, 13 <hi>Rev.</hi> 22.11. <hi>Joel</hi> 3.13. <hi>Mat</hi> 23.32. <hi>Pſal.</hi> 56.8, 9.</note>Iniquities do more and more abound,</l>
+                  <l>They that were filthy, will be filthy ſtill.</l>
+                  <l>Heaven daring ſins without controle are found;</l>
+                  <l>With wickedneſs how doth the Ephah fill!</l>
+                  <l>Saints! fill your Bottle with repenting tears,</l>
+                  <l>Then <hi>in nue honor</hi> quickly God appears.</l>
+               </lg>
+               <lg>
+                  <head>III.</head>
+                  <l>
+                     <note place="margin">
+                        <hi>Iſa.</hi> 5.18, <hi>to</hi> 25 Ch 9.8, <hi>to end.</hi> 1 <hi>Cor.</hi> 3.13. <hi>Hag.</hi> 2.6, 7, 21. <hi>Heb.</hi> 12.26, 27</note>A fixed Series of rebukes a late,</l>
+                  <l>Like Wave on Wave, diſcovers dirt and mire,</l>
+                  <l>In Perſons, Families, in Church and State,</l>
+                  <l>No ſtone in <hi>Sion</hi> but is tried by fire.</l>
+                  <l>All old Creation things with trembling mixt,</l>
+                  <l>Nought ſtands but what is <hi>in nue honor</hi> fixt.</l>
+               </lg>
+               <lg>
+                  <head>IV.</head>
+                  <l>
+                     <note place="margin">
+                        <hi>Iſa.</hi> 57.1. 2 <hi>Kin.</hi> 22.19, 20 <hi>Mic.</hi> 7.1, 2. <hi>Ezek.</hi> 24.16, 17, 21, 22, 23.</note>'Mongſt other warnings of a dreadful day</l>
+                  <l>Approaching on the remnant that are left;</l>
+                  <l>The Righteous fail, the beſt men caught away;</l>
+                  <l>Of ſence and feeling ſeem the reſt bereft,</l>
+                  <l>How ſwift the ruines of this old World haſte,</l>
+                  <l>Whilſt <hi>in nue honor</hi> Saints ſo ſwift are plac'd.</l>
+               </lg>
+               <lg>
+                  <head>V.</head>
+                  <l>
+                     <note place="margin">2 <hi>Kings</hi> 2.11. 2 <hi>King.</hi> 
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, 17. <hi>Iſa.</hi> 68.17. <hi>Luke</hi> 16.22 Mat. 24.21. Heb. 1.14. 2 <hi>Sam.</hi> 1.26, 27</note>Amid theſe troops of fiery Chariots preſt,</l>
+                  <l>The Royal Offspring home to bring with ſpeed;</l>
+                  <l>My heart is pain'd to undergoe the reſt,</l>
+                  <l>Of parting with this <hi>Iſraelite</hi> indeed.</l>
+                  <l>Yet when I think how many are debaſing,</l>
+                  <l>I durſt not grudge him <hi>in nue honor</hi> placing.</l>
+               </lg>
+               <lg>
+                  <head>VI.</head>
+                  <l>
+                     <note place="margin">2 <hi>Kin.</hi> 21.9.12 1 <hi>Kings</hi> 18.17. Chap. 21.20. 1 <hi>Cor.</hi> 4.3. <hi>John</hi> 12.26.</note>But who in ſuch a ſtormy Wind can part</l>
+                  <l>With ſuch a Father, ſuch a Friend indeed,</l>
+                  <l>And not cry out in bitterneſs of heart,</l>
+                  <l>A double ſhare I of thy Spirit need?</l>
+                  <l>Though carnal <hi>Iſrael, Iſraels</hi> troubler calls thee,</l>
+                  <l>Yet <hi>in nue honor</hi> Iſraels God enſtalls thee.</l>
+               </lg>
+               <lg>
+                  <head>VII.</head>
+                  <l>
+                     <note place="margin">2 <hi>Kings</hi> 2.12. Chap. 13.14. <hi>Zach.</hi> 12.5. <hi>Jer.</hi> 29.21. <hi>Am.</hi> 5.10. 1 <hi>K.</hi> 22.8. <hi>Rev.</hi> 11.8, 9, 10, 11.</note>Poor <hi>England</hi> little thinks, doth leſs bewail</l>
+                  <l>Its Chariots and beſt Horſe-men troop away;</l>
+                  <l>When Witneſſes and loud Reprovers fail,</l>
+                  <l>Our grand tormenters are diſpach't, ſay they,</l>
+                  <l>In open ſtreets expos'd to ſcorn ſuch lie,</l>
+                  <l>Ere <hi>in nue honor</hi> they be rais'd on high.</l>
+               </lg>
+               <lg>
+                  <head>VIII.</head>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſalm.</hi> 68.13. <hi>Jer.</hi> 8.28. <hi>Lam.</hi> 1.2. Cb. 2.10, 4, 5. <hi>Job</hi> 16.16. <hi>Iſa</hi> 25.8, 9.</note>What though (dear Soul) thy worth hath not appear'd,</l>
+                  <l>But black among the Pot-ſherds thou haſt lien,</l>
+                  <l>Thy vilage mar'd, thy beauty been beſmear'd,</l>
+                  <l>By mingling <hi>Sions</hi> Duſt with tears of thine.</l>
+                  <l>That du<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> is waſh't, thoſe tears are wip'd away,</l>
+                  <l>Since <hi>in nue honor</hi> thou are call'd to ſtay.</l>
+               </lg>
+               <lg>
+                  <head>IX.</head>
+                  <l>
+                     <note place="margin">
+                        <hi>Heb.</hi> 11.38. <hi>Am.</hi> 7.10. <hi>Gal.</hi> 2.5, 6. <hi>Jer.</hi> 6.27, 28. <hi>Ezek.</hi> 26.3, 7.8 <hi>Mark</hi> 8.38.</note>Earth was not worthy of thee, could not bear thee,</l>
+                  <l>Prophane, and looſe Profeſſors far'd alike;</l>
+                  <l>Thy words and walks did make them fret or fear thee,</l>
+                  <l>'Gainſt thoſe defilements thou wert bent to ſtrike.</l>
+                  <l>In baſe compliances thou dread'ſt to bow,</l>
+                  <l>Wert then in ſhame, art <hi>in nue honor</hi> now.</l>
+               </lg>
+               <lg>
+                  <head>X.</head>
+                  <l>
+                     <note place="margin">
+                        <hi>Acts</hi> 8.2, 9, 39. <hi>Job</hi> 29.12. <hi>to</hi> 17 <hi>Job</hi> 31.16. <hi>to</hi> 22 <hi>M<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </hi> 25.37. <hi>to</hi> 40 2 <hi>Tim.</hi> 1.16, <hi>&amp;c Phil.</hi> 2.20, 21,</note>Ah what a troop of weepers I diſcry,</l>
+                  <l>Of Widows, Fatherleſs, Sick, Priſoners ſad,</l>
+                  <l>Poor, Exiles, Deſolate, condemn'd to die,</l>
+                  <l>Shewing how they by thee were chear'd and clad.</l>
+                  <l>Our loſs, weep they, will ſcarce repaired be,</l>
+                  <l>Till <hi>in nue honor</hi> we meet Chriſt with thee.</l>
+               </lg>
+               <lg>
+                  <head>XI.</head>
+                  <l>
+                     <note place="margin">
+                        <hi>Zac.</hi> 11.4, 5. 2 <hi>Cor.</hi> 12.29. <hi>Job</hi> 2.11, 12, 13. <hi>Pſal.</hi> 39.9. <hi>Mich.</hi> 7.9. <hi>Iob</hi> 34.31, 32.</note>Among the flock of Slaughter, clad with duſt,</l>
+                  <l>Through ſympathy in Spirit oft am I;</l>
+                  <l>But with <hi>Job</hi>'s Comforters ſit mute I muſt,</l>
+                  <l>Since grief amounts to ſuch extremity.</l>
+                  <l>His indignation, having ſin'd, let's bear,</l>
+                  <l>Till <hi>in nue honor</hi> he our breach repair.</l>
+               </lg>
+               <lg>
+                  <head>XII.</head>
+                  <l>
+                     <note place="margin">
+                        <hi>Ezek.</hi> 9.4. <hi>Iſa.</hi> 66.5. <hi>Job</hi> 16.19, 20. <hi>Ezek.</hi> 11.15. <hi>Zach.</hi> 11.5. <hi>Chap.</hi> 3 8, 9.</note>A trembling remnant 'mongſt the reſt I ſpy,</l>
+                  <l>Of Mourners mark'd and ſeal'd in front and hands;</l>
+                  <l>Whom carnal Brethren caſting out, do cry,</l>
+                  <l>Where's now your God? our mount unſhaken ſtands.</l>
+                  <l>But to their ſhame he will appear at laſt,</l>
+                  <l>When <hi>in nue honor</hi> are markt Mourners plac'd.</l>
+               </lg>
+               <lg>
+                  <head>XIII.</head>
+                  <l>
+                     <note place="margin">
+                        <hi>Iam.</hi> 1.27. <hi>Jer.</hi> 49.11. <hi>Pſ.</hi> 107.41, 42. <hi>Pſ.</hi> 37.25, 26. <hi>Pſal.</hi> 68.5, 6. <hi>Iſa.</hi> 54.5, 6, 7.</note>For his bleſt chaſtned Houſhold, left with God,</l>
+                  <l>The pregnant Widow, and her hopeful Seed.</l>
+                  <l>Friends, Servants, Sojourners, that feel this Rod,</l>
+                  <l>My fleſh doth tremble, and my heart doth bleed.</l>
+                  <l>Through right to Chriſt, yet raiſed from the dead,</l>
+                  <l>Ye <hi>in nue honor</hi> have a better head.</l>
+               </lg>
+               <lg>
+                  <head>XIV.</head>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſa.</hi> 1 37.2, 4. <hi>Prov.</hi> 25.20. <hi>Job.</hi> 4.2, 3, 4, 5 <hi>Chap.</hi> 16.2. <hi>Pſ.</hi> 97.11, 12. <hi>Cant.</hi> 4 6.</note>Among theſe mourners ſhould I ſtrive to ſing,</l>
+                  <l>Like Vinegar on Nitre it would ſeem;</l>
+                  <l>If to their ſorrows I more weight ſhould bring,</l>
+                  <l>A woful Comforter they'l me eſteem.</l>
+                  <l>Haſte to thy Mountain (Soul) with mourning Wings,</l>
+                  <l>Till <hi>in nue honor</hi> light from darkneſs ſprings.</l>
+               </lg>
+               <lg>
+                  <head>XV.</head>
+                  <l>
+                     <note place="margin">
+                        <hi>Deut.</hi> 32.28, 29 <hi>Prov.</hi> 1.22. <hi>Numb.</hi> 32, 23. <hi>Luke</hi> 19.40. <hi>Iſa.</hi> 66.15. <hi>Luk.</hi> 14.31, 32.</note>But ah poor ſinners! When will ye be wiſe?</l>
+                  <l>They'r gone, who did diſturb your carnal peace.</l>
+                  <l>But ſins abiding, ſtones ſhall cry, and riſe,</l>
+                  <l>Rather then Gods conteſt with you ſhall ceaſe.</l>
+                  <l>With flames his controverſie he'l renew</l>
+                  <l>If <hi>in nue honor</hi> ye no right purſue.</l>
+               </lg>
+               <lg>
+                  <head>XVI.</head>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſalm.</hi> 74.9: 2 <hi>Chr.</hi> 36.15, 16 <hi>Iſa.</hi> 42.14, 15, 16 <hi>Luke</hi> 21.25, 26 <hi>Joel.</hi> 3.16. <hi>Zach.</hi> 9.11, 12.</note>His Prophets he no longer now imploies,</l>
+                  <l>His ſlighted, ſcorn'd Ambaſſadors, withdraws;</l>
+                  <l>But with Heav'n-ſhaking, earth afrighting noiſe,</l>
+                  <l>As if ſeven Thunders ſpake, he pleads his cauſe.</l>
+                  <l>Stout ſinners! gird your loyns, deciſion's nigh;</l>
+                  <l>Saints! to your Fortreſs, <hi>in nue honor</hi> fly.</l>
+               </lg>
+               <lg>
+                  <head>XVII.</head>
+                  <l>
+                     <note place="margin">
+                        <hi>Mat.</hi> 11.23, 24 <hi>Neh.</hi> 9.17. <hi>Jer.</hi> 23.9, 10.11 <hi>Iſa.</hi> 57.9, 10. <hi>Prov.</hi> 1.23: <hi>Dan.</hi> 4.27.</note>Backſliding <hi>England,</hi> once profeſſing high,</l>
+                  <l>Now turning <hi>Egypt</hi>-ward in ſpight of wrath;</l>
+                  <l>Thy Oaths, baſe crouchings, deep Apoſtacie,</l>
+                  <l>To ſins and vengeance flood-gates opened hath.</l>
+                  <l>Turn, turn at Gods reproof, break off thy ſin,</l>
+                  <l>Elſe ne're expect <hi>nue honor</hi> ſtepping <hi>in.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>XVIII.</head>
+                  <l>
+                     <note place="margin">
+                        <hi>Ez.</hi> 10.2: <hi>Iſa.</hi> 25.4. 2 <hi>Tim.</hi> 4.16, 17 <hi>Pſ.</hi> 32.8, 73, 24 <hi>Iſa.</hi> 51, 14, 16.</note>Yet hope's in <hi>Iſrael</hi> ſtill, though fleſh hath none;</l>
+                  <l>A ſhelter from the ſtorm have Saints provided,</l>
+                  <l>When deſolate expos'd, leſt moſt alone,</l>
+                  <l>They by Gods Eye and Counſel ſhall be guided:</l>
+                  <l>When deſolations at their height begin,</l>
+                  <l>Such earth-quakes uſher their <hi>nue honors in.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>XIX.</head>
+                  <l>
+                     <note place="margin">
+                        <hi>Iſa.</hi> 35.30 4. <hi>Luke</hi> 21.28. <hi>Joſh.</hi> 7.10. <hi>Joel.</hi> 2.17. <hi>Numb.</hi> 16.47. <hi>Joel</hi> 2.14.</note>Then mourning, trembling, Sioniſt's attend,</l>
+                  <l>Though heart &amp; hand grow faint, lift up your head.</l>
+                  <l>The Achan ſearch, the breach and gap defend,</l>
+                  <l>'Twixt Porch and Altar ſtand, 'twixt quick &amp; dead.</l>
+                  <l>Peace may be made (perhaps) a pardon had,</l>
+                  <l>And plowed Sion <hi>in nue honor</hi> clad.</l>
+               </lg>
+               <lg>
+                  <head>XX.</head>
+                  <l>
+                     <note place="margin">
+                        <hi>Num.</hi> 14.22, 23 <hi>Ez.</hi> 14.13. <hi>to</hi> 21 <hi>Zep.</hi> 2.2, 3. <hi>Luke</hi> 19.42. <hi>Iſa.</hi> 49.4, 5. <hi>Mic.</hi> 5.5.</note>Nay though this Age muſt needs be ſwept away,</l>
+                  <l>That <hi>Noah's, Daniel's, Job's,</hi> find no regard;</l>
+                  <l>Decrees be ſeal'd, and men have loſt their day,</l>
+                  <l>Yet ſhall your faithful work have full reward.</l>
+                  <l>Th' <hi>Aſſyrians</hi> floods your peace ſhall not annoy,</l>
+                  <l>Ye <hi>in nue honor</hi> ſhall your God enjoy.</l>
+               </lg>
+               <closer>
+                  <signed>A. C.</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <head>An ANAGRAM and ELEGY, on his dear deceaſed Friend, <hi>John Vernon.</hi>
+               </head>
+               <head>JOHN VERNON, Anagram, <hi>VINE ON HORN.</hi>
+               </head>
+               <argument>
+                  <l>How, <hi>Vine on Horn?</hi> theſe things do not agree</l>
+                  <l>In courſe of nature; pray you let us ſee</l>
+                  <l>How ſpiritualized they together ſtand,</l>
+                  <l>To anſwer here unto our caſe in hand.</l>
+               </argument>
+               <lg>
+                  <l>
+                     <note place="margin">
+                        <hi>Iſa.</hi> 5.1, 2. <hi>Jer.</hi> 2.21. <hi>Pſalm.</hi> 60.15. <hi>Luke</hi> 1.69. <hi>Rom.</hi> 11.17, 24. &amp; 6.5. <hi>Joh.</hi> 12.28, 29. <hi>Pſa.</hi> 18.2. <hi>P.</hi> 92.10. <hi>Jo.</hi> 17.10. <hi>Rom.</hi> 8,9 1 <hi>John</hi> 2.3. <hi>Iſa.</hi> 26.4. <hi>Pſal.</hi> 138.8. <hi>Iſa.</hi> 35.10.</note>SAints God calls <hi>Vines,</hi>and CHRIST is call'd a <hi>Horn,</hi>
+                  </l>
+                  <l>On which all Saints are planted, can't be torn</l>
+                  <l>From him again, though they be weak as <hi>Vine.</hi>
+                  </l>
+                  <l>This <hi>Horn</hi> ſupports, ſupplies, ſays, theſe are mine;</l>
+                  <l>And ſhall yet more be known, as his at length,</l>
+                  <l>Becauſe this Horn has everlaſting ſtrength,</l>
+                  <l>To bring all things to paſs to them belongs,</l>
+                  <l>And fill their mouth's with everlaſting Songs.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">
+                        <hi>Jer.</hi> 2, 21. <hi>Pſal.</hi> 92.10, 23, 5. 1 <hi>John</hi> 2.27. 2 <hi>Cor.</hi> 3.5, 6. <hi>Gen.</hi> 49.22. Pſ. 92.12, 13, 14. <hi>Hoſ.</hi> 14.5.6 <hi>Gen.</hi> 40.23. <hi>Pſal.</hi> 64.4. <hi>Pſal.</hi> 109.31. <hi>Acts</hi> 7.9. <hi>Pſalm.</hi> 56.1, 2, 5, 6. <hi>Pſalm.</hi> 41.5, 6, 7, 9. with 55.12, 13, 14. <hi>Pſalm.</hi> 35.12. <hi>Jer.</hi> 13.16, 17.</note>But ah, this Vine's cut down, this noble Vine,</l>
+                  <l>That freſh Oyl from this Horn did make to ſhine;</l>
+                  <l>With which he was indeed ſo well annointed,</l>
+                  <l>As made him meet for what he was appointed;</l>
+                  <l>A fruitful bough he was, by Well and Wall,</l>
+                  <l>Which did ſupply, ſupport, made him grow tall.</l>
+                  <l>The Archers ſorely ſhot, did hate, and grieve</l>
+                  <l>His tender Soul, but God did him relieve.</l>
+                  <l>How many ſhock's from ſinners, and from Saints</l>
+                  <l>Did he ſuſtain, producing ſad complaints</l>
+                  <l>To God his God, when men would not regard,</l>
+                  <l>But all his love and labour ill reward.</l>
+                  <l>His Soul did mourn in ſecret for ſuch pride</l>
+                  <l>
+                     <note place="margin">
+                        <hi>John</hi> 7.37. <hi>Phil.</hi> 2.21. 2 <hi>Tim.</hi> 3.5. 1 <hi>Pet.</hi> 1.4. <hi>Iſa.</hi> 24.5.14.57.9. <hi>Jer.</hi> 2.23. <hi>Mal.</hi> 3.7. <hi>Jer.</hi> 9.1, 8, 21. <hi>Ezek.</hi> 21.6 9.4.</note>He found with many long before he di'd;</l>
+                  <l>To ſee a worldly, formal, ſelfiſh ſpirit,</l>
+                  <l>'Mongſt men profeſſing Heaven to inherit.</l>
+                  <l>Defilements deep, declining, and debaſing;</l>
+                  <l>Facings about, and yet in all out-facing;</l>
+                  <l>Such gaſhings made our tender Vine to weep,</l>
+                  <l>Sigh, ſorrow, deeply, till he fell a ſleep.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">
+                        <hi>Iſa.</hi> 22.12. <hi>Jer,</hi> 9.17. <hi>Ezek.</hi> 21.3, 4. <hi>Joel</hi> 3.16. <hi>Pſalm.</hi> 42.7. <hi>Pſalm.</hi> 88.7.</note>Mourn <hi>Sions</hi> Saints, oh mourn and weep full ſore,</l>
+                  <l>Our Vine's cut down, God doth in <hi>Sion</hi> roar:</l>
+                  <l>Oh, what's the cauſe, deep calls thus unto deep?</l>
+                  <l>And all his Billows over us do creep?</l>
+                  <l>Death's of the choiſeſt Saints, like mighty Waves</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Luke</hi> 16.30. 1 <hi>Cor.</hi> 11.30.</note>Rowl on upon us, calling to the Graves,</l>
+                  <l>To hear from thence what dead to living ſay,</l>
+                  <l>Who tell us why they could no longer ſtay.</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Heb.</hi> 11.4.</note>Though dead, yet ſpeak they do, and we muſt hear</l>
+                  <l>Some ſad things from them, yet, I greatly fear.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſalm.</hi> 8.8. 1 <hi>Tim.</hi> 4.6. 1 <hi>Cor.</hi> 3.17. <hi>Pſal.</hi> 23.1, 2. <hi>Rev.</hi> 7.17. 2 <hi>Cor.</hi> 6.2, 3. <hi>Iſa.</hi> 5.1, 2. <hi>Mic.</hi> 4.4. <hi>Ezek.</hi> 14.23, 24, 16.</note>Dear Congregation, when this Vine did flouriſh,</l>
+                  <l>Do you conſider God made him to nouriſh,</l>
+                  <l>Succour, ſupport, with wholeſom food to feed you,</l>
+                  <l>And by the ſtreams of living Waters lead you;</l>
+                  <l>Ah, did you prize, improve this precious time,</l>
+                  <l>When God thus ſet you under your own Vine;</l>
+                  <l>What means a firſt, a ſecond, and a third,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Mic.</hi> 6.9. <hi>Jer.</hi> 8.6.</note>So ſoon ſnach't from you, ſearch, is there no word</l>
+                  <l>From God, of ſin, nor duty that you hear?</l>
+                  <l>Oh ſpeak aright, as perſons in his fear.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">
+                        <hi>Jer.</hi> 9.17. <hi>Lam.</hi> 5.15. <hi>Acts</hi> 4.36. <hi>Job</hi> 29.16. <hi>v.</hi> 11.2.25. <hi>Phil.</hi> 2.20. 2 <hi>Cor.</hi> 11.28. <hi>Luke</hi> 10.36, 37. <hi>Pſalm.</hi> 37.21, 26. <hi>Iſa.</hi> 32.8.</note>Let Widdows, Orphans, all diſtreſs'd ones joyn</l>
+                  <l>In this ſad Lamentation, for the Vine,</l>
+                  <l>Who ſo refreſh'd bowels diſconſolate,</l>
+                  <l>Sought out, and ſuccour'd them at ſuch a rate;</l>
+                  <l>As few like minded left, ſo truly caring,</l>
+                  <l>Pains, Purſe, and Perſon, he ſo little ſparing,</l>
+                  <l>To Bodies, Souls of many to do good,</l>
+                  <l>He did deviſe, and by deviſing, ſtood.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">2 <hi>Chron.</hi> 34.27. <hi>Eph.</hi> 4.32 <hi>Rev.</hi> 2.2. <hi>Pſal.</hi> 119.138. 2 <hi>Pet.</hi> 2.8. <hi>Jer.</hi> 9.30.</note>Let differing Brethren alſo bear a part,</l>
+                  <l>From whom he did with-draw; Alas his heart</l>
+                  <l>Being truly tender, could not bear to ſee</l>
+                  <l>Defilements riſe unto ſuch high degree;</l>
+                  <l>Such cowardize, not valour for the Truth,</l>
+                  <l>Hath been his Souls great burthen from his youth.</l>
+                  <l>Admit in ſome part here he might be weak,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Iſa.</hi> 5.17. <hi>Iſa.</hi> 52.15. <hi>Jude</hi> 15. <hi>Job</hi> 42.7. 1 <hi>Cor.</hi> 4.3, 4, 5.</note>He was a man; but oh when God ſhall ſpeak,</l>
+                  <l>And you ſhall hear, he'l make you underſtand,</l>
+                  <l>That your hard ſpeeches croſſed his Command;</l>
+                  <l>And that you ſpake not of his Vine aright,</l>
+                  <l>As you may think you have, whilſt it is night.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">
+                        <hi>Luke</hi> 23.31. 2 <hi>Chron.</hi> 34.27, 28. <hi>Mal.</hi> 3.3. <hi>Prov.</hi> 25.4. <hi>Iſa.</hi> 1.25. <hi>Jer.</hi> 6.28, 29. <hi>Acts</hi> 13.41. <hi>Pſ.</hi> 5.12. <hi>Iſa.</hi> 31.7. <hi>Iſa.</hi> 2.18. <hi>Rom.</hi> 11.18. <hi>Hoſ.</hi> 14.8. <hi>Iſa.</hi> 19.1. 1 <hi>Pet.</hi> 4.17. <hi>Jer.</hi> 29.12, 13. 1 <hi>Cor.</hi> 3.12. 1 <hi>Pet.</hi> 2.4, 5, 6. <hi>Deut</hi> 32.39. 1 <hi>Sam.</hi> 2.6. <hi>Heb.</hi> 13.8. <hi>Mal.</hi> 3.6. <hi>Heb.</hi> 1.11, 12. <hi>Job</hi> 1.21.</note>Let's all conſider, look about, and ſee,</l>
+                  <l>What God, our God hath done to this green Tree!</l>
+                  <l>And fear, and tremble, more remains behind</l>
+                  <l>Of Fire, and Fullers-ſoap, whereby refin'd</l>
+                  <l>Muſt be ſuch ruſty Veſſels, yet remaining,</l>
+                  <l>As we are under all, ſo little gaining.</l>
+                  <l>Let's all take heed of ſlighting or deſpiſing,</l>
+                  <l>Unduely ſetting up, or idolizing</l>
+                  <l>Moſt fruitful Boughs; it is the Horn that bears,</l>
+                  <l>And for abuſings, every way thus tears,</l>
+                  <l>And rends, and goes away unto his place,</l>
+                  <l>Till ſence of guilt ſhall make us ſeek his face;</l>
+                  <l>He bears the Building, he muſt wear the Crown,</l>
+                  <l>It is his right to raiſe up and caſt down:</l>
+                  <l>He changeth not, abideth ſtill the ſame,</l>
+                  <l>In all our changes, praiſe his holy Name.</l>
+               </lg>
+               <closer>
+                  <signed>W. A.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
